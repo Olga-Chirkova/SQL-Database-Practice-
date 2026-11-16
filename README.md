@@ -1,6 +1,3 @@
-# SQL-Database-Practice
-
-
 # SQL Database Practice
 
 This repository contains SQL practice exercises using MySQL 8.0.
